@@ -1,0 +1,1 @@
+Puedes decidir si construir el robot real o simplemente divertirte con el simulado. El curso se puede seguir de ambas formas, la mayoría de las lecciones y la mayor parte del código funcionarán de la misma manera en la simulación que en el robot real.
